@@ -8,9 +8,4 @@ def setup ():
 def draw ():
     global rr
     triangle(280-rr, 350+rr, 292, 320-rr, 304+rr, 350+rr)
-    
-   
-   
-    
     rr =  rr + 1
-    
